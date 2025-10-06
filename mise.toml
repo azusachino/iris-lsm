@@ -1,0 +1,7 @@
+[tools]
+rust = "stable"
+
+[tasks.build]
+run = """
+cargo build
+"""
